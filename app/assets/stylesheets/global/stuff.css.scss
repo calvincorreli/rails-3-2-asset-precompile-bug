@@ -1,0 +1,5 @@
+@import "../global/mixins";
+
+.rounded {
+  @include rounded(5px);
+}
